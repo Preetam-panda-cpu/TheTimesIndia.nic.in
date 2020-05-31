@@ -1,0 +1,647 @@
+@import url('https://pro.fontawesome.com/releases/v5.10.0/css/all.csss');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',
+         sans-serif;
+    background:#eee;
+}
+/*heading section css srarts here*/
+#heading article{
+    background: #1a1a1a;
+    height: 55px;
+}
+#heading article .one ul{
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    font-weight: 300;
+    font-size: 16px;
+}
+#sportSection{
+    background: white;
+    width: 500px;
+     margin-top: 110px;
+}
+#heading article .two ul{
+    color: white;
+    position: absolute;
+    font-weight: 300;
+    font-size: 16px;
+    cursor: pointer;
+     margin-left: 77px;
+     font-weight:300;
+}
+#heading article .three ul{
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    font-weight: 300;
+    font-size: 16px;
+     margin-left: 157px;
+     font-weight:300;
+}
+#heading article .right img{
+    position: absolute;
+    margin-left: 702px;
+    height: 50px;
+    background: blue;
+}
+#heading article .text{
+    position: absolute;
+    margin-left: 756px;
+    height: 50px;
+    background: blue;
+    color:white;
+    margin-top:0px;
+}
+#heading article .text ul{
+    padding-left: 2px;
+    width: 270px;
+    color:white;
+}
+#heading article .userlogin{
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 16px;
+    padding-left: 1048px;
+}
+#heading article .notification img{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 1114px;
+}
+#heading article .twitter img{
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 1156px;
+    height: 30px;
+}
+#heading article .facebook img{
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 1199px;
+    height: 30px;
+}
+#heading article .wifi img{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 1237px;
+    height: 49px;
+}
+#heading article .youtube img{
+position: absolute;
+    margin-top: 5px;
+    margin-left: 1272px;
+    height: 40px;
+}
+/*heading section css ends here*/
+
+/*time section css starts here*/
+#times article .one{
+    height: 92px;
+    margin-top: -1px;
+    border-top: 1px solid #eee;
+        background: black;
+}
+#times article .one img{
+   padding-left: 369px;
+    margin-top: 12px;
+}
+#times article .one p{
+    position: absolute;
+    color: white;
+    margin-top: 1px;
+    padding-left: 610px;
+}
+#articleContent img{
+    height:200px;
+    border-radius:2%;
+}
+#articleContent.row{
+    border-bottom:1px solid #eee;
+    box-sizing:border-box;
+    width: unset;
+}
+#entertaimentAllTemplate ul li{
+    border:none;
+}
+
+#entertaimentAllTemplate{
+    position: absolute;
+    margin-left: 945px;
+    margin-top: -12804px;
+    background: white;
+    height: 12731px
+}
+#entertaimentAllTemplate .row .col-md-5 img{
+    height:200px;
+    border-radius:2%;
+}
+.text-muted{
+    font-size:12px;
+    text-transform:capitalize;
+    padding: 0, 8px;
+}
+#sportSection h1{
+    width: 474px;
+    height: 161px;
+}
+#sportSection  p{
+    width: 474px;
+    height: 100px;
+}
+.sports h5{
+    position: absolute;
+    margin-top: -41px;
+    background: blue;
+    color: white;
+    font-size: 25px;
+    width: 494px;
+    text-align: center;
+}
+#entertaiment h5{
+      position: absolute;
+    margin-left: 945px;
+    margin-top: -12842px;
+    background: blue;
+    color: white;
+    font-size: 25px;
+    width: 403px;
+    text-align: center;
+    text-transform: capitalize;
+}
+/*time section css ends here*/
+
+/*covid section css starts here*/
+.nav-item{
+  background: white;
+    height: 93px;
+    margin-left: -38px;
+    margin-top: -20px;
+    margin-bottom: -67px;
+    position: relative;
+}
+.nav-item h5{
+   position: absolute;
+    margin-top: -5px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#covidBlock section {
+  display: flex;
+}
+
+#covidBlock section div {
+  background: #eee;
+  padding: 7px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 5px 1px #eee;
+  margin: 4px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  margin-top: 31px;
+}
+
+#covidBlock section div h4 {
+  margin: 4px 10px 4px 0px;
+  padding: 7px;
+  color: white;
+  background: rebeccapurple;
+}
+
+/*covid section css ends here*/ 
+/*weather bblock css starts here*/
+ #form h5{
+  position: absolute;
+    margin-left: 524px;
+    margin-top: -12842px;
+    background: blue;
+    color: white;
+    font-size: 25px;
+    width: 403px;
+    text-align: center;
+    text-transform: capitalize;
+}
+ #input{
+   position: absolute;
+    margin-left: 585px;
+    margin-top: -12771px;
+    width: 243px;
+    height: 37px;;
+}
+#weatherTemplate .card-body p,
+#weatherTemplate span {
+    padding: 4px;
+    text-transform: capitalize;
+    font-size: 12px;
+    color: #03A9F4;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    margin: 10px;
+}
+#weatherTemplate .card-body div{
+    display:block;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.card-body{
+    position: absolute;
+    margin-left: 585px;
+    margin-top: -12757px;
+    width: 243px;
+    height: 37px;
+}
+.col-md-3{
+    background: azure;
+}
+/*weather bblock css ends here*/
+
+/*advatisement block  css starts here*/
+#advatisement article .one img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -7230px;
+}
+#advatisement article .two img{
+       position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -6987px;
+}
+#advatisement article .three img{
+     position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -6738px;
+}
+#advatisement article .four img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -6459px;
+}
+#advatisement article .five img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -6459px;
+}
+#advatisement article .six img{
+   position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -6022px;
+}
+#advatisement article .seven img{
+ position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -5797px;
+}
+#advatisement article .eight img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -5289px;
+}
+#advatisement article .nine img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -5037px;
+}
+#advatisement article .ten img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -4613px;
+}
+#advatisement article .eleven img{
+  position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -4296px;
+}
+#advatisement article .tweleve img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -4296px;
+}
+#advatisement article .thirten img{
+   position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -3975px;
+}
+#advatisement article .fourten img{
+   position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -3552px;
+}
+#advatisement article .fiveten img{
+position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -3228px;
+}
+#advatisement article .sixten img{
+  position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2994px;
+}
+#advatisement article .seventen img{
+     position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2746px;
+}
+#advatisement article .eighten img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2422px;
+}
+#advatisement article .nineten img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2153px;
+}
+#advatisement article .twenty img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2153px;
+}
+#advatisement article .twentyone img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2153px;
+}
+#advatisement article .twentytwo img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -2153px;
+}
+#advatisement article .twentythree img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -1825px
+}
+#advatisement article .twentyfour img{
+      position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -1826px;
+}
+#advatisement article .twentyfive img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -1395px;
+}
+#advatisement article .twentysix img{
+         position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -965px;
+}
+#advatisement article .twentyseven img{
+    position: absolute;
+    margin-left: 944px;
+    width: 403px;
+    margin-top: -336px;
+}
+#advatisement article .twentyeight img{
+   position: absolute;
+    margin-left: 0px;
+    width: 1349px;
+    margin-top: -58px;
+}
+
+/*advatisement block  css ends here*/
+
+/*middleblock advatisement section css starts here*/
+#middleblock article h5{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -12420px;
+    background: blue;
+    color: white;
+    font-size: 25px;
+    width: 445px;
+    text-align: center;
+    text-transform: capitalize;
+}
+#middleblock article .one img{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -12382px;
+    width: 445px;
+}
+#middleblock article .two img{
+   position: absolute;
+    margin-left: 501px;
+    margin-top: -12109px;
+    width: 445px;
+}
+#middleblock article .three img{
+     position: absolute;
+    margin-left: 501px;
+    margin-top: -11801px;
+    width: 445px;
+}
+#middleblock article .four img{
+     position: absolute;
+    margin-left: 501px;
+    margin-top: -11801px;
+    width: 445px;
+}
+#middleblock article .five img{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -11537px;
+    width: 445px;
+}
+#middleblock article .six img{
+  position: absolute;
+    margin-left: 501px;
+    margin-top: -11242px;
+    width: 445px;
+}
+#middleblock article .seven img{
+  position: absolute;
+    margin-left: 501px;
+    margin-top: -10892px;
+    width: 445px;
+}
+#middleblock article .eight img{
+ position: absolute;
+    margin-left: 501px;
+    margin-top: -10541px;
+    width: 445px;
+}
+#middleblock article .nine img{
+ position: absolute;
+    margin-left: 501px;
+    margin-top: -10196px;
+    width: 445px;
+}
+#middleblock article .ten img{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -9844px;
+    width: 445px;
+}
+#middleblock article .eleven img{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -9502px;
+    width: 445px
+}
+#middleblock article .tweleve img{
+   position: absolute;
+    margin-left: 501px;
+    margin-top: -9155px;
+    width: 445px;
+}
+#middleblock article .thirten img{
+  position: absolute;
+    margin-left: 501px;
+    margin-top: -8569px;
+    width: 445px;
+}
+#middleblock article .fourten img{
+ position: absolute;
+    margin-left: 501px;
+    margin-top: -8228px;
+    width: 445px;
+}
+#middleblock article .fiveten img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -7872px;
+    width: 445px;
+}
+#middleblock article .sixten img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -7194px;
+    width: 445px;
+}
+#middleblock article .seventen img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -6541px;
+    width: 445px;
+}
+#middleblock article .eighten img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -5880px;
+    width: 445px;
+}
+#middleblock article .nineten img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -5153px;
+    width: 445px;
+}
+#middleblock article .twenty img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -4795px;
+    width: 445px;
+}
+#middleblock article .twentyone img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -4064px;
+    width: 445px;
+}
+#middleblock article .twentytwo img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -3338px;
+    width: 445px;
+}
+#middleblock article .twentythree img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -2986px;
+    width: 445px;
+}
+#middleblock article .twentyfour img{
+  position: absolute;
+    margin-left: 501px;
+    margin-top: -2716px;
+    width: 445px;
+}
+#middleblock article .twentyfive img{
+  position: absolute;
+    margin-left: 501px;
+    margin-top: -2174px;
+    width: 445px;
+}
+#middleblock article .twentysix img{
+     position: absolute;
+    margin-left: 501px;
+    margin-top: -1912px;
+    width: 445px;
+}
+#middleblock article .twentyseven img{
+     position: absolute;
+    margin-left: 501px;
+    margin-top: -1599px;
+    width: 445px;
+}
+#middleblock article .twentyeight img{
+     position: absolute;
+    margin-left: 501px;
+    margin-top: -1599px;
+    width: 445px;
+}
+#middleblock article .twentynine img{
+position: absolute;
+    margin-left: 501px;
+    margin-top: -1327px;
+    width: 445px;
+}
+#middleblock article .thirty img{
+height: 251px;
+position: absolute;
+    margin-left: 501px;
+    margin-top: -1059px;
+    width: 445px;
+}
+#middleblock article .thirtyone img{
+    position: absolute;
+    margin-left: 501px;
+    margin-top: -777px;
+    width: 445px;
+}
+#middleblock article .thirtytwo img{
+  position: absolute;
+    margin-left: 495px;
+    margin-top: -415px;
+    width: 445px;
+}
+/*middleblock advatisement section css ends here*/
